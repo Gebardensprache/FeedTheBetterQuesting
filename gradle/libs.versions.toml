@@ -1,0 +1,15 @@
+[versions]
+# libraries
+annotations = "26.1.0"
+jspecify    = "1.0.0"
+# mods
+jei                  = "4.16.1.302" # Just Enough Items 4.16.1.302
+theOneProbe          = "2667280"    # The One Probe 1.4.28
+
+[libraries]
+# libraries
+annotations          = { group = "org.jetbrains",                 name = "annotations",                     version.ref = "annotations"          }
+jspecify             = { group = "org.jspecify",                  name = "jspecify",                        version.ref = "jspecify"             }
+# mods
+jei                  = { group = "mezz.jei",                      name = "jei_1.12.2",                      version.ref = "jei"                  }
+theOneProbe          = { group = "curse.maven",                   name = "top-245211",                      version.ref = "theOneProbe"          }

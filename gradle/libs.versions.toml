@@ -5,11 +5,15 @@ jspecify    = "1.0.0"
 # mods
 jei                  = "4.16.1.302" # Just Enough Items 4.16.1.302
 theOneProbe          = "2667280"    # The One Probe 1.4.28
+ftbLibrary           = "2985811"    # FTB Library (Legacy) 5.4.7.2
+bqu                  = "8097689"    # Better Questing Unofficial 4.3.2
 
 [libraries]
 # libraries
-annotations          = { group = "org.jetbrains",                 name = "annotations",                     version.ref = "annotations"          }
-jspecify             = { group = "org.jspecify",                  name = "jspecify",                        version.ref = "jspecify"             }
+annotations          = { group = "org.jetbrains",                 name = "annotations",                         version.ref = "annotations"          }
+jspecify             = { group = "org.jspecify",                  name = "jspecify",                            version.ref = "jspecify"             }
 # mods
-jei                  = { group = "mezz.jei",                      name = "jei_1.12.2",                      version.ref = "jei"                  }
-theOneProbe          = { group = "curse.maven",                   name = "top-245211",                      version.ref = "theOneProbe"          }
+jei                  = { group = "mezz.jei",                      name = "jei_1.12.2",                          version.ref = "jei"                  }
+theOneProbe          = { group = "curse.maven",                   name = "top-245211",                          version.ref = "theOneProbe"          }
+ftbLibrary           = { group = "curse.maven",                   name = "ftb-library-legacy-forge-237167",     version.ref = "ftbLibrary"           }
+bqu                  = { group = "curse.maven",                   name = "better-questing-unofficial-629629",   version.ref = "bqu"                  }

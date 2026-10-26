@@ -14,6 +14,8 @@ dependencies {
 
     implementation(deobf.of(libs.jei))
     implementation(deobf.of(libs.theOneProbe))
+    implementation(deobf.of(libs.ftbLibrary))
+    implementation(deobf.of(libs.bqu))
 }
 
 configurations {

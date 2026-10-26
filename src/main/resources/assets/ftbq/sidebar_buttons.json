@@ -1,0 +1,10 @@
+{
+  "bq_quests": {
+    "group": "ftblib:info",
+    "icon": "betterquesting:items/quest_book",
+    "x": 610,
+    "click": "ftbq:open_bq_gui",
+    "required_server_mods": ["betterquesting", "ftbq"],
+    "loading_screen": true
+  }
+}

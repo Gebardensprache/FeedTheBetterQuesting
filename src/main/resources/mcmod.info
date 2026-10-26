@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "ftbq",
+    "name": "Feed The Better Questing",
+    "description": "A simply mod added a FTB Sidebar button to open Better Questing GUI.",
+    "version": "${modVersion}",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Gebardensprache/FTBQ",
+    "authorList": ["Anomaly <oganesson897@gmail.com>"],
+    "credits": "FTB Quests",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": []
+  }
+]
